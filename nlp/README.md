@@ -10,4 +10,14 @@
 ## Используемые библиотеки
 pandas
 
-matplotlib
+numpy
+
+seaborn
+
+re
+
+sklearn
+
+nltk
+
+spacy
